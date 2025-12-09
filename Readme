@@ -1,0 +1,38 @@
+Caesar Cipher – Python Project 🔐
+
+This project demonstrates a basic implementation of the **Caesar Cipher**
+encryption and decryption technique using Python.
+
+🔹 Features
+- Encrypt text using a shift key
+- Decrypt encrypted text
+- Preserves numbers, spaces, and symbols
+- Simple and beginner-friendly code
+- Well-commented for easy understanding
+
+🔹 How It Works
+- Each letter is shifted forward or backward based on the key
+- Uses modulo arithmetic to wrap around the alphabet
+
+🔹 Usage
+bash
+python caesar_cipher.py
+Example
+Input: hello
+Key: 3
+Output: khoor
+
+🔹 Concepts Used
+
+Python functions
+
+Loops and conditionals
+
+String handling
+
+Modulo arithmetic
+
+🔹 Why This Project?
+
+This project helps beginners understand classical encryption techniques
+and strengthens Python fundamentals for cybersecurity learning.
